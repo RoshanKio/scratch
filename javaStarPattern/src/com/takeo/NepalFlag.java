@@ -9,6 +9,6 @@ public class NepalFlag {
 				System.out.println(str);
 			}
 		}
-	}
+		System.out.println("**\n**\n**\n**\n**\n**\n**\n**\n**\n");	}
 
 }
